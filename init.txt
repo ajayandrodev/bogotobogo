@@ -13,3 +13,6 @@ now we commited above things .useing git commit like git commit -m m means commi
  git log shows the name,email,message for the operation
  after modified the file init.txt .then check the log
 after status is done then using commit .
+modified the any file using the process below
+if the failed bcz its not in staged area 
+ we run the git add its use multiple purpose .1)it to begin tracking new file,to stage files,to other things like merge conflicte files as resolved.
