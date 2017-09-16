@@ -25,3 +25,4 @@ now we discuss the git diff
  we have changed but not yet staged 
 file rename using directly working folder 
 using gitconfig for name and email
+now we are working on remote repository
