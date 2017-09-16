@@ -15,3 +15,4 @@ git push -u origin master push into remote
  if u commited the newbranch created then only update ur github n using git push origin dev
 >>>>>>> dev
 deleting branch git branch -d dev
+-e deleting the branch using git branch -d branchname
