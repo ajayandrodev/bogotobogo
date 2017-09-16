@@ -6,3 +6,6 @@ git remote add origin https://github.com/ajayandrodev/bogotobogo.git
 git push -u origin master create the new repository using commndline
 git remote add origin https://github.com/ajayandrodev/bogotobogo.git
 git push -u origin master push into remote
+ if u created the new branch 
+ 
+ check which branch ur using git branch
