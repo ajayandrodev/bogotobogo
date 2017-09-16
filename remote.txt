@@ -9,3 +9,4 @@ git push -u origin master push into remote
  if u created the new branch 
  
  check which branch ur using git branch
+ if u commited the newbranch created then only update ur github n using git push origin dev
