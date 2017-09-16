@@ -6,4 +6,11 @@ git remote add origin https://github.com/ajayandrodev/bogotobogo.git
 git push -u origin master create the new repository using commndline
 git remote add origin https://github.com/ajayandrodev/bogotobogo.git
 git push -u origin master push into remote
+<<<<<<< HEAD
  check merger or non merged file like this using --merged or --no-merged
+=======
+ if u created the new branch 
+ 
+ check which branch ur using git branch
+ if u commited the newbranch created then only update ur github n using git push origin dev
+>>>>>>> dev
