@@ -10,3 +10,6 @@ green means git tells us the files are new file. Now there are tracked and stage
  if u changes in any file then its check status its show the modified that filename in red color then u added to git change into new file.
 configure mail or name using git
 now we commited above things .useing git commit like git commit -m m means commit message
+ git log shows the name,email,message for the operation
+ after modified the file init.txt .then check the log
+after status is done then using commit .
