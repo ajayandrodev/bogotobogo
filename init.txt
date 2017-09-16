@@ -19,3 +19,7 @@ if the failed bcz its not in staged area
 [master f1a0ad0] its added to remote .modified text
  1 file changed, 3 insertions(+)
  if any modifie the file. then its put them into the staging area 
+now we discuss the git diff 
+ git status is not exactly what we changed .then we are using git diff
+ git diff mostly used .1)what have we changed but not yet staged? .2) what have we staged that we are about to commit? git status answers those questions But git diff shows the exactlines added and removed.
+ we have changed but not yet staged 
