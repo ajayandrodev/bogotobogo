@@ -1,1 +1,0 @@
-create the directory. then initialize git using git init GitProjects.
