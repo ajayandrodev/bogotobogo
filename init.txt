@@ -23,3 +23,4 @@ now we discuss the git diff
  git status is not exactly what we changed .then we are using git diff
  git diff mostly used .1)what have we changed but not yet staged? .2) what have we staged that we are about to commit? git status answers those questions But git diff shows the exactlines added and removed.
  we have changed but not yet staged 
+file rename using directly working folder 
