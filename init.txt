@@ -18,3 +18,4 @@ if the failed bcz its not in staged area
  we run the git add its use multiple purpose .1)it to begin tracking new file,to stage files,to other things like merge conflicte files as resolved.
 [master f1a0ad0] its added to remote .modified text
  1 file changed, 3 insertions(+)
+ if any modifie the file. then its put them into the staging area 
